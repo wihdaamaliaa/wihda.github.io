@@ -31,3 +31,16 @@ background-image: url(3.jpg);}
     font-family: fantasy;
     color: rgb(0, 0, 0);
 }
+
+.puisi { font-size: 900;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+  /* background-color: black;*/
+ font-family: 'Times New Roman', Times, serif;  
+}
+.puisiayah {
+    font-size: 400;
+    letter-spacing: 20px;
+    font-family: fantasy;
+    color: white;
+}
